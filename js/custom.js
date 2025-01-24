@@ -17,6 +17,7 @@ $(".owl-carousel").owlCarousel({
         '<i class="fa fa-long-arrow-right" aria-hidden="true"></i>'
     ],
     autoplay: true,
+    autoplayTimeout: 3000,
     autoplayHoverPause: true,
     responsive: {
         0: {
